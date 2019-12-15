@@ -5,3 +5,5 @@
 + you basically swapped out VIM for .vim in your local environment
 + then use unix command source to 'source ~/.vimrc' which should work to redo your vi colors
 + note that your .vimrc file might need some cleanup across environments, so a standard version should be put to this project
+
+- Typescript: https://github.com/leafgarland/typescript-vim
